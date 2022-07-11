@@ -1,3 +1,3 @@
-# Kaggle_CVcourse_to_Pytorch
+# Studying [Dive Into Deep Learning] using Pytorch
 
-Implementation using pytorch from "https://www.kaggle.com/learn/computer-vision"
+https://d2l.ai/index.html
