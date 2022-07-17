@@ -2,7 +2,7 @@
 
 ***
     You can find online book [Dive Into Deep Learning] following website.
-    Link : [DIDL][https://d2l.ai/index.html]
+    Link : [DIDL]<https://d2l.ai/index.html>
 ***
 
 ** The library "d2l" is made by DIDL writers  
