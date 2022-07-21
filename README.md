@@ -1,7 +1,7 @@
 ## Studying [Dive Into Deep Learning] using Pytorch
 
 ***
-    You can find online book [Dive Into Deep Learning] following [here](https://d2l.ai/index.html).
+You can find online book [Dive Into Deep Learning] following [here](https://d2l.ai/index.html)
 
 ***
 
