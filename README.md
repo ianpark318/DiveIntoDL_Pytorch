@@ -1,9 +1,8 @@
 ## Studying [Dive Into Deep Learning] using Pytorch
 
 ***
-    You can find online book [Dive Into Deep Learning] following website.
-    
-https://d2l.ai/index.html
+    You can find online book [Dive Into Deep Learning] following [here](https://d2l.ai/index.html).
+
 ***
 
 - **The library "d2l" is made by DIDL writers, and this only helps visualizing graphs**  
